@@ -1,0 +1,1 @@
+snap-start bg-amber-200 w-96 flex-shrink-0 h-screen flex itmes-center justify-center text-8xl

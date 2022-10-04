@@ -1,0 +1,9 @@
+/node_modules
+/other
+/prisma
+/src/middleware.md
+/src/pages/api
+/src/types/next-auth.d.ts
+/src/server
+/src/env
+/src/pages/index.md
